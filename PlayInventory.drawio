@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T13:21:48.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.9.3" etag="G8oJI70cL8k6fs4gZIRv" type="github"><diagram id="xKP_Erfuz3LDf2b8lCoD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T14:15:08.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="oKzDvfUsyeyfbnJkZPM2" version="13.9.3" type="github">
+  <diagram id="xKP_Erfuz3LDf2b8lCoD" name="Page-1">
+    <mxGraphModel dx="1791" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-1" value="Play Units" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-2" value="Play Area Asset Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-3" value="Manufacturer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-4" value="Age Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-5" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-6" value="Year Installed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-7" value="Play Equipment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-8" value="Feature Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-9" value="Play Area Type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-10" value="Play Structure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="152.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-11" value="Swing Type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="212.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-12" value="Swing Connection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="272.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-13" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-14" value="Feature Count" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-15" value="Year Installed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-16" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQBcvqQaeDCoxhu1wb3r-8" target="MQBcvqQaeDCoxhu1wb3r-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-17" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MQBcvqQaeDCoxhu1wb3r-8" target="MQBcvqQaeDCoxhu1wb3r-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-18" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MQBcvqQaeDCoxhu1wb3r-8" target="MQBcvqQaeDCoxhu1wb3r-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-19" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MQBcvqQaeDCoxhu1wb3r-8" target="MQBcvqQaeDCoxhu1wb3r-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-20" value="Safety Surface" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="265" y="540" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-21" value="Year Installed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-22" value="Safety Surface Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQBcvqQaeDCoxhu1wb3r-23" value="Equipment on Safety Surface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
